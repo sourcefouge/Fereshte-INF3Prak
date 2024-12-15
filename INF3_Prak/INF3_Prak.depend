@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1734109218 source:/home/feri/INF3_Prak/client.C
+	<string>
+	<iostream>
+	<unistd.h>
+	"SIMPLESOCKET.H"
+
+1734109218 /home/feri/INF3_Prak/SIMPLESOCKET.H
+	<string>
+	<arpa/inet.h>
+
+1734109218 source:/home/feri/INF3_Prak/server.C
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cerrno>
+	<ctime>
+	<unistd.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	"SIMPLESOCKET.H"
+
+1734109218 source:/home/feri/INF3_Prak/SHA256.C
+	<cstring>
+	<fstream>
+	"SHA256.H"
+
+1734109218 /home/feri/INF3_Prak/SHA256.H
+	<string>
+
+1734109218 source:/home/feri/INF3_Prak/SIMPLESOCKET.C
+	<iostream>
+	<cstdio>
+	<cstring>
+	<string>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<sys/types.h>
+	<netinet/in.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cerrno>
+	<ctime>
+	"SIMPLESOCKET.H"
+
+1734109218 source:/home/feri/INF3_Prak/TASK1.C
+	<cstdlib>
+	<cstring>
+	<iostream>
+	"TASK1.H"
+	"SHA256.H"
+
+1734109218 /home/feri/INF3_Prak/TASK1.H
+	<string>
+
+1734109218 source:/home/feri/INF3_Prak/TASK2.C
+	<iostream>
+	"TASK2.H"
+
+1734109218 /home/feri/INF3_Prak/TASK2.H
+	"SIMPLESOCKET.H"
+	"SHA256.H"
+
